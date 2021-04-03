@@ -28,3 +28,53 @@
 예를 들어,보다 정교한 스크레이퍼 봇은 JavaScript를 사용하여 웹 사이트의 모든 양식을 작성하고 모든 게이트 된 컨텐츠를 다운로드 할 수 있습니다.
 “브라우저 자동화”프로그램 및 API를 사용하면 웹 사이트 및 API가 마치 웹 사용자가 컨텐츠에 액세스한다고 생각하도록 
 웹 사이트의 서버를 속이려고 하는 것처럼 웹 사이트 및 API와 자동화 된 봇 상호 작용이 가능합니다.
+
+<br/>
+
+---
+
+## 웹 이란?
+
+<br/>
+
+웹은 크게 **HTML, CSS, JS** 로 있습니다. 
+
+집으로 예를 들자면,
+
+1. 집의 뼈대 역할. (뼈대)  : ***HTML (Hyper Text Markup Language)***
+2. 집의 인테리어 역할. (예쁘게하는것)  : ***CSS***
+3. 집에서 사람의 역할. (살아있게) :  ***JS***
+
+**VS code** 에서 *'open in browser'* install.
+
+![20210312_203621](https://user-images.githubusercontent.com/57824945/113467804-67046c80-9480-11eb-81f2-206106cad265.png)
+
+
+설치 후 open in default browser (alt + b) 를 누르면 컴퓨터 설정 기본 브라우져 창 열림
+
+기본적인 html 코드.
+
+<br/>
+
+```html
+<html>
+    <head>
+        <mete charset="utf-8">
+        <title>생생이 홈페이지</title>
+    </head>
+    <body>
+        <!-- tpye text는 text, password 는 암호화 되어 나옴 -->
+        <input type = "text" value = "아이디를 입력하세요"> 
+        <input type = "password">
+        <input type = "button" value = "로그인">
+        <a href = "http://google.com">구글로 이동하기</a>
+    </body>
+</html>
+```
+
+  ![Untitled](https://user-images.githubusercontent.com/57824945/113468249-84d1d180-9480-11eb-8bdf-91989b829d3b.png)
+
+
+웹 HTML 을 공부하고 싶다면 해당 사이트 참고.
+
+[W3Schools Online Web Tutorials](https://www.w3schools.com/)
