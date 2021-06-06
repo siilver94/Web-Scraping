@@ -35,11 +35,8 @@ try:
 finally:
     browser.quit()
 
-
-
 elem = browser.find_element_by_xpath(
      "//*[@id='content']/div[2]/div/div[4]/ul/li[1]")
 print(elem.text)
-
 
 time.sleep(300)
