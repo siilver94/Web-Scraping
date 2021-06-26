@@ -12,7 +12,6 @@ browser = webdriver.Chrome(
     'C:\\Users\Vector\Desktop\PythonWorkSpace\.vscode\webscraping_basic\chromedriver.exe', options=options)
 browser.maximize_window()
 
-
 url = 'https://www.whatismybrowser.com/detect/what-is-my-user-agent'
 
 browser.get(url)
