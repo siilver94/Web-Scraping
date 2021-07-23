@@ -48,7 +48,6 @@
 
 ![20210312_203621](https://user-images.githubusercontent.com/57824945/113467804-67046c80-9480-11eb-81f2-206106cad265.png)
 
-
 설치 후 open in default browser (alt + b) 를 누르면 컴퓨터 설정 기본 브라우져 창 열림
 
 기본적인 html 코드.
