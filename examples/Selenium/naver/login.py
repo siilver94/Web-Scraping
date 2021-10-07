@@ -11,7 +11,6 @@ browser.get('http://naver.com')
 elem = browser.find_element_by_class_name('link_login')
 elem.click()
 
-
 #3. id,pw 입력
 browser.find_element_by_id('id').send_keys('siilver94')
 browser.find_element_by_id('pw').send_keys('hack2035')
