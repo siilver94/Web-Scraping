@@ -43,8 +43,7 @@ for i in range(1,6):
         rate_number = item.find('span', attrs={'class':'rating-total-count'}) #평점 수
         if rate_number :
             rate_number = rate_number.get_text()[1:-1]
-        
-        
+              
         else :
             
             print('<평점 수 없는 상품은 제외합니다>')  
