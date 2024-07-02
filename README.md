@@ -1,12 +1,8 @@
-# web-scraping
+# 웹 스크래핑 (Web Scraping)
 
 <br/>
 
-## 웹 스크래핑 (web scraping)
-
-<br/>
-
- 웹 사이트 상에서 **원하고 필요한 부분**에 위치한 정보를 컴퓨터로 하여금 자동으로 추출하여 수집하는 기술.
+ 웹 사이트 상에서 **원하고 필요한 부분**에 위치한 정보를 컴퓨터로 하여금 자동으로 추출하여 수집하는 기술입니다.
  
  <br/>
  
@@ -30,29 +26,37 @@
 
 <br/>
 
----
 
 ## 웹 이란?
 
 <br/>
 
-웹은 크게 **HTML, CSS, JS** 로 있습니다. 
+웹은 크게 `HTML`, `CSS`, `JS` 로 구성되어 있습니다. 
 
 집으로 예를 들자면,
 
-1. 집의 뼈대 역할. (뼈대)  : ***HTML (Hyper Text Markup Language)***
-2. 집의 인테리어 역할. (예쁘게하는것)  : ***CSS***
-3. 집에서 사람의 역할. (살아있게) :  ***JS***
+1. 집의 뼈대 역할. (뼈대)  : `HTML (Hyper Text Markup Language)`
+2. 집의 인테리어 역할. (예쁘게하는것)  : `CSS`
+3. 집에서 사람의 역할. (살아있게) :  `JS`
 
 **VS code** 에서 *'open in browser'* install.
 
+<br/>
+
+
 ![20210312_203621](https://user-images.githubusercontent.com/57824945/113467804-67046c80-9480-11eb-81f2-206106cad265.png)
+
+<br/>
+
+
 
 설치 후 open in default browser (alt + b) 를 누르면 컴퓨터 설정 기본 브라우져 창 열림
 
-기본적인 html 코드.
-
 <br/>
+
+
+
+**기본적인 html 코드.**
 
 ```html
 <html>
@@ -72,6 +76,9 @@
 
   ![Untitled](https://user-images.githubusercontent.com/57824945/113468249-84d1d180-9480-11eb-8bdf-91989b829d3b.png)
 
-웹 HTML 을 공부하고 싶다면 해당 사이트 참고.
+<br/>
+
+
+웹 HTML에 대해서 더 공부하고 싶다면 해당 사이트 참고를 추천드립니다.
 
 [W3Schools Online Web Tutorials](https://www.w3schools.com/)
