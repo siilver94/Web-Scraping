@@ -1,4 +1,4 @@
-## **Xpath 란? XML Path Language**
+## Xpath(XML Path Language)
 
 <br/>
 
